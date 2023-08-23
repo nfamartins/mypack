@@ -6,5 +6,5 @@ Created on Tue Aug 22 18:45:28 2023
 @author: nfamartins
 """
 
-def soma(a,b):
+def subtracao(a,b):
     return a-b

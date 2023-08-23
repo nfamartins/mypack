@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 setup(
     name="mypack",
     version="0.0",
-    description="Um pacote com funções (não tão) úteis. Um teste para criação de pacotes",
+    description="Um pacote com funções (não tão) úteis. Um teste para criação de pacotes.",
     author="Nath",
     author_email="nathalia@akaua.com.br",
     packages=find_packages(),
