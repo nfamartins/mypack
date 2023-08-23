@@ -1,0 +1,9 @@
+setup.py
+mypack/__init__.py
+mypack/soma.py
+mypack/subtracao.py
+mypack.egg-info/PKG-INFO
+mypack.egg-info/SOURCES.txt
+mypack.egg-info/dependency_links.txt
+mypack.egg-info/requires.txt
+mypack.egg-info/top_level.txt
